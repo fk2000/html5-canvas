@@ -1,0 +1,24 @@
+html,body{
+    width: 100%; height: 100%;
+    margin: 0; padding: 0;
+    background-color: #ffffff;
+    text-align: center;    
+}
+
+div,p{
+    margin: 0; padding: 0;
+}
+
+#dummy{
+	float: left;
+    width: 5px; height: 50%;
+	margin-bottom: -135px;
+	background-color: transparent;
+}
+
+#content{
+	clear: left;
+    width: 670px; height: 270px;
+	margin: 0 auto;
+	#border: 4px solid #000000;
+}
